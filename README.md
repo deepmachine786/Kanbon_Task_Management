@@ -30,4 +30,7 @@ The development of this Kanban Board Task Management application drew inspiratio
 
 [Deployed Link](https://alhansat-kanban-task-management.onrender.com)
 <br>
-[Github Link](https://github.com/shabbiryahya/ALHANSAT-Kanban-Board-Task-Management)
+[Github Link](https://github.com/deepmachine786)
+<br>
+[Portfolio Link] (https://deepmachine786.github.io)
+
